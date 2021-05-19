@@ -1,4 +1,4 @@
-# react-php-shop
+# react-php-shop-2019
 This is a simple shop which I've created using React.JS and PHP.
 <br/>
 Here You can see the login and register pages!
@@ -18,4 +18,4 @@ STEPS TO RUN:
 
 ![login-page](login-page.png)
 ![reg-page](reg-page.png)
-# react-php-shop-2019
+
