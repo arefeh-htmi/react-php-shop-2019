@@ -1,0 +1,42 @@
+.Form {
+	min-width: 600px;
+	/* margin: 10px auto; */
+}
+ 
+.Form label {
+	display: block;
+    text-align: left;
+	float:left;
+	width: 23%;  
+	margin: 15px ; 
+	 
+}
+
+.Form input {
+	float:left;
+	width: 70%;
+	margin: 10px auto;
+}
+
+.Form p {
+	display: block;
+    text-align: left; 
+    margin: 0px;
+    color: red; 
+}
+.Form h2{
+	color:#FFC107;
+}
+.signup_reg_page{
+	width: 100%;
+	height: calc(100vh - 150px);
+	background: url('../images/Login-rafiki.png');
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	background-size: contain;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	align-content: flex-end;
+	padding:8% ;
+}
